@@ -28,18 +28,5 @@ function App() {
 }
 
 
-//  function Li({check,name})
-// {
-//   return(
-//     <div>
-//         <li className ={check ? "bold":"bold"}>
-            
-//                 <i className={check? "fa fa-check": "fas fa-times "}></i>
-//             {name}
-//         </li>
-//     </div>
-// )
-// }
-
 export default App;
 
